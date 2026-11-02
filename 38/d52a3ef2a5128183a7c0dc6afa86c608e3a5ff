@@ -1,0 +1,18 @@
+VRCFTPlugin-VTubeStudio.slnx
+  h_8e6780fc7b4bb1 1-3
+VRCFTPlugin-VTubeStudio/Class1.cs
+  h_8e6780fc7b4bb1 1-7
+VRCFTPlugin-VTubeStudio/VRCFTPlugin-VTubeStudio.csproj
+  h_8e6780fc7b4bb1 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "38d52a3ef2a5128183a7c0dc6afa86c608e3a5ff",
+  "prompts": {},
+  "humans": {
+    "h_8e6780fc7b4bb1": {
+      "author": "AuraElicase <auraelicase@outlook.com>"
+    }
+  }
+}
