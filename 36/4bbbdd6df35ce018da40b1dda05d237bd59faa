@@ -1,0 +1,20 @@
+.gitattributes
+  h_8e6780fc7b4bb1 1-63
+.gitignore
+  h_8e6780fc7b4bb1 1-363
+LICENSE.txt
+  h_8e6780fc7b4bb1 1-201
+README.md
+  h_8e6780fc7b4bb1 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "364bbbdd6df35ce018da40b1dda05d237bd59faa",
+  "prompts": {},
+  "humans": {
+    "h_8e6780fc7b4bb1": {
+      "author": "AuraElicase <auraelicase@outlook.com>"
+    }
+  }
+}
